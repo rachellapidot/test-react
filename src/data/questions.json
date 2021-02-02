@@ -1,0 +1,96 @@
+[
+    {
+        "question":"Evrything in React is a ... ",
+        "correctValue": 1,
+        "options":[
+            "Module",
+            "Component",
+            "Package",
+            "Class"
+        ]
+    },
+    {
+        "question":"In which directory React components are saved?",
+        "correctValue": 0,
+        "options":[
+            "Inside js/components",
+            "Inside vendor/components",
+            "Inside external/components",
+            "Inside vendor"
+        ]
+    },
+    {
+        "question":"How many elements does a react component return",
+        "correctValue": 2,
+        "options":[
+            "2 elements",
+            "1 element",
+            "Multiple elements",
+            "None of these..."
+        ]
+    },
+    {
+        "question":"What is state in React?",
+        "correctValue": 1,
+        "options":[
+            "A persistant storage",
+            "An internal data store (object) of component"
+        ]
+    },
+    {
+        "question":"What is Babel?",
+        "correctValue": 3,
+        "options":[
+            "A traspiler",
+            "An interpreter",
+            "A Complier",
+            "Both Compiler and Transpilar"
+        ]
+    },
+    {
+        "question":"What does the webpack do?",
+        "correctValue": 2,
+        "options":[
+            "Transpiles all the Javascript down into one file",
+            "Runs react local development server",
+            "A module bundler"
+        ]
+    },
+    {
+        "question":"What port is the default where webpack-dev-server will run?",
+        "correctValue": 1,
+        "options":[
+            "3000",
+            "8080",
+            "3306"
+        ]
+    },
+    {
+        "question":"What is ReactJS?",
+        "correctValue": 2,
+        "options":[
+            "Server side Framework",
+            "User-interface framework",
+            "A Library for building interaction interfaces",
+            "None of These"
+        ]
+    },
+    {
+        "question":"What are the two ways that data gets handled in React",
+        "correctValue": 0,
+        "options":[
+            "State & Props",
+            "Services & Cmponents"
+        ]
+    },
+    {
+        "question":"In React what is used to pass data to a component from outside?",
+        "correctValue": 2,
+        "options":[
+            "SetState",
+            "render with argumants",
+            "props",
+            "PropsTypes"
+        ]
+    }
+]
